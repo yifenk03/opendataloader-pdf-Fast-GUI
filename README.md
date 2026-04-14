@@ -5,7 +5,7 @@
 ![界面](GUI.png)
 
 基于opendataloader-project/opendataloader-pdf的fast模式。只能转换非图片类的PDF，需要处理公式，复杂表格请使用Hybrid模式（见https://github.com/opendataloader-project/opendataloader-pdf）。
-因为Hybrid模式使用Docling，但Docling有点问题，所以本工具没有支持Hybrid模式。
+因为Hybrid模式使用Docling，但Docling有点问题，而且使用不同功能要激活不同后端，有点麻烦，所以本工具没有支持Hybrid模式。
 
 复杂的PDF建议使用OpenOCR（https://github.com/Topdu/OpenOCR），
 基于百度飞桨，效果很好，本人也做了对应的GUI工具，请自行下载。
