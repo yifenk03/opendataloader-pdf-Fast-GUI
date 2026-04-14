@@ -1,0 +1,7 @@
+PyQt5 >= 5.15.0
+PyQtWebEngine >= 5.15.0
+PyMuPDF >= 1.23.0  # fitz
+markdown >= 3.4.0
+requests >= 2.31.0
+GPUtil >= 1.4.0    # 可选，GPU监控功能
+opendataloader-pdf  # 核心转换工具
