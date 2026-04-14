@@ -1,4 +1,4 @@
-# ODL-PDF-Fast-GUI
+# ODL-PDF-FastMode-GUI
 
 一个基于 PyQt5 开发的可视化 GUI 工具，用于简化 `opendataloader-pdf` 工具的使用流程，支持 PDF 文件的批量转换、格式选择、页面范围筛选以及实时预览和硬件监控等功能。
 
